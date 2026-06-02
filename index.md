@@ -4,6 +4,7 @@ Curated weekly summaries of recent preprints in gravitational-wave physics, EMRI
 
 ## Latest Digests
 
+- [**2026-06-02**](reports/2026-06-02) — Delayed TDE radio flares from star-disk EMRI collisions (Linial-Metzger-Beloborodov), SEOBNRv6EHM multipolar EOB for generic planar orbits, first NR-injection systematics for eccentric LVK PE, warped-disk QPE-EMRI model with Brightness-Recurrence Diagram, QPE O−C timing methodology dispute, recoil-regulated wet-EMRI rates in AGN disks, Magnus/lift forces on spinning EMRI secondaries
 - [**2026-05-26**](reports/2026-05-26) — Dynamical QNM excitation II (bounce-radius consensus), comparable-mass PN convergence vs NR (Stein+Bonga), axion gravitational atoms in LISA EMRIs, eccentric stellar-mass BBHs across LISA+LVK, first systematic hyperbolic-template reanalysis of LVK high-mass events, Debye-series echoes
 - [**2026-05-19**](reports/2026-05-19) — Analytical Schwarzschild eccentric Teukolsky fluxes (Chebyshev kernel), unified HeunC Kerr fluxes (no nu-search), second-order self-force conservative/dissipative splits, pole-skipping resolution of Kerr QNM anomalies, dynamical QNM excitation in plunge, stellar eclipses of mm AGN cores
 - [**2026-05-12**](reports/2026-05-12) — — eccentric scalar-cloud EMRI resonances, HeunC Kerr Teukolsky fluxes (vs. pybhpt), spinning charged particles in Schwarzschild+B, RWZ+BPT unification, LISA SGWB from eccentric sBBHs, BH horizon cusp formation, AGN-accretion high-spin BBH subpopulation
