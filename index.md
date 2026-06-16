@@ -4,6 +4,8 @@ Curated weekly summaries of recent preprints in gravitational-wave physics, EMRI
 
 ## Latest Digests
 
+- [**2026-06-16**](reports/2026-06-16) — Bayesian relativistic EMRI-in-AGN-disk Fisher-vs-MCMC (Gair: breaks Σ/h² degeneracy without EM counterpart), tritronquée + catastrophe theory for the inspiral→plunge transition (Bonga T2; extremal-Kerr Painlevé-II conjecture), modified Teukolsky for EMRIs in higher-derivative gravity (Huan Yang T3; 1–2 orders-of-magnitude horizon-flux enhancement), DM spike survival at Sgr A* under stars+EMRIs (Karydas+ refute Sharpe+), tidal stripping of matter bound to the *secondary* in EMRIs, gauge-invariant frequency-dependent NS tidal response via scattering amplitudes (Saketh, Andersson); notable update: Trestini–Nasipak–Pound on self-force constants of motion
+
 - [**2026-06-09**](reports/2026-06-09) — Cano higher-derivative binary Love-number waveforms (5PN tidal, Heun-class breakdown), SpECTRE NR-based scalar self-force on Kerr (Wardell), modified Teukolsky for EMRIs in cubic gravity with horizon-flux enhancement (Huan Yang), Bayesian ET detection of BNS tidal resonances (Hinderer), stellar spin in repeating partial TDEs (Pasham), direct-wave area law on GW250114 (Yunes); follow-up on Lui–Drummond spinning-secondary EMRI envs
 
 - [**2026-06-02**](reports/2026-06-02) — Delayed TDE radio flares from star-disk EMRI collisions (Linial-Metzger-Beloborodov), SEOBNRv6EHM multipolar EOB for generic planar orbits, first NR-injection systematics for eccentric LVK PE, warped-disk QPE-EMRI model with Brightness-Recurrence Diagram, QPE O−C timing methodology dispute, recoil-regulated wet-EMRI rates in AGN disks, Magnus/lift forces on spinning EMRI secondaries
